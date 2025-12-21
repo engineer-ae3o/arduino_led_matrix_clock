@@ -175,3 +175,6 @@ Code uses Freetronics DMD library (GPL v3). Project code follows same license.
 - [FreeRTOS Arduino](https://github.com/feilipu/Arduino_FreeRTOS_Library)
 - [DMD Library](https://github.com/freetronics/DMD)
 - [DS3231 Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/DS3231.pdf)
+
+## Link to video
+https://youtu.be/WG1ywbPXsYI?si=4tYHl-6cnaJc91U0
